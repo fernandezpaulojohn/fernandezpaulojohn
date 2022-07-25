@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fernandezpaulojohn
+- 👋 Hi, I’m Paulo John D. Fernandez and PJ is my Middle Name.
 - 👀 I’m interested in Front end Web Development.
-- 🌱 I’m currently learning HTML5, CSS3 and JS.
+- 🌱 I’m currently learning HTML5, CSS3 and JS in Udemy at ZTM or Zero to Mastery Course.
 - 💞️ I’m looking to collaborate on with people for projects and portfolio which will enable and upgrade my skillsets.
 - 📫 How to reach me  
 
